@@ -1,4 +1,4 @@
-# Phishing Email Analysis — Task 2
+# Phishing Email Analysis — Task 
 Author: <M.Soma Niranjan>
 Date: 2025-09-19
 
@@ -20,4 +20,4 @@ This repo contains an analysis of the email: "You’re Shortlisted – Cyber Sec
 - Authentication checks in this email passed (dkim/spf/dmarc), indicating the email was sent through the domain's configured mailing provider.
 - Still recommended: do not enter credentials on any page opened from tracking links until you confirm the landing host is trustworthy.
 
-Contact: <msniranjan2004@gmail.com>
+

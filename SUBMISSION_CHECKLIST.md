@@ -1,0 +1,10 @@
+- [ ] sample-email.eml included (raw .eml file).
+- [ ] analysis_report.md completed and accurate with evidence (headers quoted where necessary).
+- [ ] raw_headers.txt included (full header dump).
+- [ ] evidence/ contains:
+    - auth_results.png (screenshot of the Authentication-Results or header view)
+    - hover_link.png (screenshot showing link expansion/redirect target)
+    - whois_dharmakit.txt or screenshot (optional)
+    - virustotal_url.png (optional)
+- [ ] README.md present and instructive.
+- [ ] Repo ready to share (public or provide link as per assignment).
